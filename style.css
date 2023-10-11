@@ -1,0 +1,19 @@
+ body {
+    background-color: rgb(39, 80, 66);
+    color: yellowgreen;
+ }
+
+ .heading {
+    font-size: 50px;
+    font-weight: bolder ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+ }
+
+ hr{
+    width: 50%;
+ }
+
+ .objects {
+    color: aquamarine;
+ }
